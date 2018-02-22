@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverCalc.iml" filepath="$PROJECT_DIR$/.idea/modules/serverCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverCalc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/serverCalc_main.iml" group="serverCalc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverCalc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/serverCalc_test.iml" group="serverCalc" />
+    </modules>
+  </component>
+</project>
