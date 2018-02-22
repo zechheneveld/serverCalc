@@ -12,8 +12,8 @@ public class MathEntry {
         this.op = op;
         this.num2 = num2;
 
-        int val1 = Integer.parseInt(num1);
-        int val2 = Integer.parseInt(num2);
+        double val1 = Integer.parseInt(num1);
+        double val2 = Integer.parseInt(num2);
 
         switch(op){
             case "add":
